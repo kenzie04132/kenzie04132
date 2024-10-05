@@ -1,4 +1,9 @@
-## Hi there 👋
+My name is Mackenzie Ash and I am currently a junior at Brigham Young University Idaho. I'm majoring in Computer Science for a Bachelor in Science as well as minoring in Fine Arts.
+
+I have basic skills in Python, HTML, CSS, Javascript, C#, and Erlang. 
+I have designed a couple of websites in school projects and made several coding projects for Python, C#, and Erlang including a couple of games. 
+
+
 
 <!--
 **kenzie04132/kenzie04132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
